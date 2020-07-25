@@ -6,7 +6,7 @@ Todos ellos están programados en *C++* y validados como **Correct** por el juez
 La siguiente tabla recoge enlaces a enunciados y soluciones para cada problema, así como las páginas para realizar envíos de soluciones al juez automático.
 
 |Nº de problema  | Nombre del problema| Solución
-|--|--|--|--|
+|--|--|--|
 | 109 | [Liga de pádel](https://www.aceptaelreto.com/problem/statement.php?id=109) | [AceptaElReto109LigaPadel.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/AceptaElReto109LigaPadel.cpp "AceptaElReto109LigaPadel.cpp")| | |
 | 114 | [Conjugar verbos](https://www.aceptaelreto.com/problem/statement.php?id=123) | [AceptaElReto114UltimoDigitoFactorial.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/AceptaElReto114UltimoDigitoFactorial.cpp "AceptaElReto114UltimoDigitoFactorial.cpp")| | |
 | 126 | [Divisores del factorial](https://www.aceptaelreto.com/problem/statement.php?id=126) | [AceptaElReto126DivisoresFactorial.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/AceptaElReto126DivisoresFactorial.cpp "AceptaElReto126DivisoresFactorial.cpp")| | |
