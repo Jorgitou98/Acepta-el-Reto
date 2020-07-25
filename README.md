@@ -1,7 +1,7 @@
 ## Contenido del repositorio
 Este repositorio consta una colección de soluciones en pocas líneas de códig a problemas de programación planteados en la web [Acepta El Reto](https://www.aceptaelreto.com/). Todos ellos están programados en *C++* y validados como **Correct** por el juez automático de la web, siendo por tanto todas las soluciones suficientemente eficientes.
 
-## Resumen de problemas resueltos
+## Tabla de problemas resueltos
 |Nº de problema  | Nombre del problema| Solución
 |--|--|--|
 | 109 | [Liga de pádel](https://www.aceptaelreto.com/problem/statement.php?id=109) | [AceptaElReto109LigaPadel.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto109LigaPadel.cpp "AceptaElReto109LigaPadel.cpp")| | |
