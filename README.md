@@ -1,5 +1,6 @@
-## Contenido del repositorio
-Este repositorio consta una colección de soluciones en pocas líneas de código a problemas de programación planteados en la web [Acepta El Reto](https://www.aceptaelreto.com/). Todos ellos están programados en *C++* y validados como **Accepted** por el juez automático de la web, siendo por tanto todas las soluciones suficientemente eficientes.
+## Contenido del repositorio y usuario de *Acepta el Reto*
+Este repositorio consta una colección de soluciones en *C++* a problemas de programación planteados en la web [Acepta El Reto](https://www.aceptaelreto.com/). Todos ellos han sido validados como **Accepted** por el juez automático de la web y, por tanto, son suficientemente eficientes. En mi [perfil de Acepta el Reto](https://www.aceptaelreto.com/user/profile.php?id=4260) pueden comprobarse los problemas que tengo resueltos. Es posible que este repositorio este desactualizado y falte alguno.
+
 
 ## Tabla de problemas resueltos
 |Nº de problema  | Nombre del problema| Solución
@@ -103,7 +104,3 @@ Este repositorio consta una colección de soluciones en pocas líneas de código
 | 603 |[El carpintero Ebanisto](https://www.aceptaelreto.com/problem/statement.php?id=603)  |[AceptaElReto603CarpinteroEbanisto.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto603CarpinteroEbanisto.cpp "AceptaElReto603CarpinteroEbanisto.cpp") | | |
 | 606 |[El precio de la gasolina](https://www.aceptaelreto.com/problem/statement.php?id=606)  |[AceptaElReto606PrecioGasolina.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto606PrecioGasolina.cpp "AceptaElReto606PrecioGasolina.cpp") | | |
 | 612 |[Punto dentro de círculos](https://www.aceptaelreto.com/problem/statement.php?id=612)  |[AceptaElReto612PuntosDentroCirculos.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto612PuntosDentroCirculos.cpp "AceptaElReto612PuntosDentroCirculos.cpp") | | |
-
-
-## Usuario de Acepta el reto
-En mi [perfil de Acepta el Reto](https://www.aceptaelreto.com/user/profile.php?id=4260) se puede comprobar todos los problemas que tengo resueltos. Es posible que este repositorio este desactualizado y falte alguno.
