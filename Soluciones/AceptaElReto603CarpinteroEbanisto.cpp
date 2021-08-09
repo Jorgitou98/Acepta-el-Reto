@@ -5,8 +5,8 @@
 using namespace std;
 
 int main() {
-	cin.sync_with_stdio(false);
-	cin.tie(nullptr);
+	//cin.sync_with_stdio(false);
+	//cin.tie(nullptr);
 	int l, n;
 	cin >> l >> n;
 	while (l != 0 || n != 0) {
