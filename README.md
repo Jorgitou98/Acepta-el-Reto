@@ -1,7 +1,6 @@
 ## Contenido del repositorio y usuario de Acepta el Reto
 Este repositorio consta una colección de soluciones en *C++* a problemas de programación planteados en la web [Acepta el Reto](https://www.aceptaelreto.com/). Todos ellos han sido validados como **Accepted** por el juez automático de la web y, por tanto, son suficientemente eficientes. En mi [perfil de Acepta el Reto](https://www.aceptaelreto.com/user/profile.php?id=4260) pueden comprobarse los problemas que tengo resueltos. Es posible que este repositorio este desactualizado y falte alguno.
 
-
 ## Tabla de problemas resueltos
 |Nº de problema  | Nombre del problema| Solución
 |--|--|--|
@@ -95,9 +94,7 @@ Este repositorio consta una colección de soluciones en *C++* a problemas de pro
 | 509 | [Cargando el móvil](https://www.aceptaelreto.com/problem/statement.php?id=509) | [AceptaElReto509CargandoElMovil.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto509CargandoElMovil.cpp "AceptaElReto509CargandoElMovil.cpp")| | |
 | 524 | [Compe y Tencia](https://www.aceptaelreto.com/problem/statement.php?id=524) | [AceptaElReto524CompeYTencia.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto524CompeYTencia.cpp "AceptaElReto524CompeYTencia.cpp")| | |
 | 550 | [La galería de tiro](https://www.aceptaelreto.com/problem/statement.php?id=550) | [AceptaElReto550GaleriaTiro.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto550GaleriaTiro.cpp "AceptaElReto550GaleriaTiro.cpp")| | |
-| 551 | [Mensaje secreto](https://www.aceptaelreto.com/problem/statement.php?id=551) | [AceptaElReto551MensajeSecreto.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto551MensajeSecreto.cpp "AceptaElReto551MensajeSecreto.cpp")| | |
-| 553 | [Traduciendo los apuntes](https://www.aceptaelreto.com/problem/statement.php?id=553) | [AceptaElReto553TraduciendoApuntes.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto553TraduciendoApuntes.cpp "AceptaElReto553TraduciendoApuntes.cpp")| | |
-| 557 | [Haciendo largos](https://www.aceptaelreto.com/problem/statement.php?id=557) | [AceptaElReto557HaciendoLargos.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto557HaciendoLargos.cpp "AceptaElReto557HaciendoLargos.cpp")| | |
+w.aceptaelreto.com/problem/statement.php?id=557) | [AceptaElReto557HaciendoLargos.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto557HaciendoLargos.cpp "AceptaElReto557HaciendoLargos.cpp")| | |
 | 558 | [CamelCasi](https://www.aceptaelreto.com/problem/statement.php?id=558) | [AceptaElReto558CamelCasi.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto558CamelCasi.cpp "AceptaElReto558CamelCasi.cpp")| | |
 | 560 | [La madriguera del Señor Conejo](https://www.aceptaelreto.com/problem/statement.php?id=560) | [AceptaElReto560MadrigueraConejo.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto560MadrigueraConejo.cpp "AceptaElReto560MadrigueraConejo.cpp")| | |
 | 562 | [Repartidor de frigoríficos](https://www.aceptaelreto.com/problem/statement.php?id=562) | [AceptaElReto562RepartidorFrigorificos.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto562RepartidorFrigorificos.cpp "AceptaElReto562RepartidorFrigorificos.cpp")| | |
