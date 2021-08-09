@@ -40,8 +40,8 @@ long long int MergeSort(vector<int>& v, int ini, int fin) {
 }
 
 int main() {
-	cin.sync_with_stdio(false);
-	cin.tie(nullptr);
+	//cin.sync_with_stdio(false);
+	//cin.tie(nullptr);
 	int n;
 	cin >> n;
 	while (n != 0) {
