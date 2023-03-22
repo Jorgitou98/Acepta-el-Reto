@@ -1,5 +1,5 @@
 ## Contenido del repositorio y usuario de Acepta el Reto
-Este repositorio consta una colección de soluciones en *C++* a problemas de programación planteados en la web [Acepta el Reto](https://www.aceptaelreto.com/). Todos ellos han sido validados como **Accepted** por el juez automático de la web y, por tanto, son suficientemente eficientes. En mi [perfil de Acepta el Reto](https://www.aceptaelreto.com/user/profile.php?id=4260) pueden comprobarse los problemas que tengo resueltos, es posible que este repositorio este desactualizado y falte alguno.
+Este repositorio consta una colección de soluciones en *C++* a problemas de programación planteados en la web [Acepta el Reto](https://www.aceptaelreto.com/). Todos ellos han sido validados como **Accepted** por el juez automático de la web y, por lo tanto, son suficientemente eficientes. En mi [perfil de Acepta el Reto](https://www.aceptaelreto.com/user/profile.php?id=4260) pueden consultarse los problemas que tengo resueltos. Es posible que este repositorio este desactualizado y falten algunos.
 
 ## Tabla de problemas resueltos
 |Nº de problema  | Nombre del problema| Solución
