@@ -1,7 +1,7 @@
 ## Contenido del repositorio y usuario de Acepta el Reto
 Este repositorio contiene una colección de soluciones en *C++* a problemas de programación planteados en la web [Acepta el Reto](https://www.aceptaelreto.com/). Todos ellos han sido validados como **Accepted** por el juez automático de la web y, por lo tanto, son correctos y suficientemente eficientes. En mi [perfil de Acepta el Reto](https://www.aceptaelreto.com/user/profile.php?id=4260) pueden consultarse los problemas que tengo resueltos. Es posible que este repositorio este desactualizado y falten algunos.
 
-## Tabla de problemas resueltos (310 problemas)
+## Tabla de problemas resueltos (311 problemas)
 |Nº de problema  | Nombre del problema| Solución
 |--|--|--|
 | 100 | [Constante de Kaprekar](https://www.aceptaelreto.com/problem/statement.php?id=100) | [AceptaElReto100Kaprekar.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto100Kaprekar.cpp "AceptaElReto100Kaprekar.cpp")| | |
@@ -314,3 +314,4 @@ Este repositorio contiene una colección de soluciones en *C++* a problemas de p
 | 712 | [Eventos de los partidos](https://www.aceptaelreto.com/problem/statement.php?id=712) | [AceptaElReto712EventosEntradas.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto712EventosEntradas.cpp "AceptaElReto712EventosEntradas.cpp")| | |
 | 713 | [Fase de grupos](https://www.aceptaelreto.com/problem/statement.php?id=713) | [AceptaElReto713FaseGrupos.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto713FaseGrupos.cpp "AceptaElReto713FaseGrupos.cpp")| | |
 | 722 | [Tú uno y yo dos](https://www.aceptaelreto.com/problem/statement.php?id=722) | [AceptaElReto722TuUnoYoDos.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto722TuUnoYoDos.cpp "AceptaElReto722TuUnoYoDos.cpp")| | |
+| 738 | [Torfiles](https://www.aceptaelreto.com/problem/statement.php?id=738) | [AceptaElReto738Torfiles.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto738Torfiles.cpp "AceptaElReto738Torfiles.cpp")| | |
