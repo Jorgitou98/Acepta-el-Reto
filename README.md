@@ -1,7 +1,7 @@
 ## Contenido del repositorio y usuario de Acepta el Reto
 Este repositorio contiene una colección de soluciones en *C++* a problemas de programación planteados en la web [Acepta el Reto](https://www.aceptaelreto.com/). Todos ellos han sido validados como **Accepted** por el juez automático de la web y, por lo tanto, son correctos y suficientemente eficientes. En mi [perfil de Acepta el Reto](https://www.aceptaelreto.com/user/profile.php?id=4260) pueden consultarse los problemas que tengo resueltos. Es posible que este repositorio este desactualizado y falten algunos.
 
-## Tabla de problemas resueltos (312 problemas)
+## Tabla de problemas resueltos (313 problemas)
 |Nº de problema  | Nombre del problema| Solución
 |--|--|--|
 | 100 | [Constante de Kaprekar](https://www.aceptaelreto.com/problem/statement.php?id=100) | [AceptaElReto100Kaprekar.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto100Kaprekar.cpp "AceptaElReto100Kaprekar.cpp")| | |
@@ -316,3 +316,4 @@ Este repositorio contiene una colección de soluciones en *C++* a problemas de p
 | 722 | [Tú uno y yo dos](https://www.aceptaelreto.com/problem/statement.php?id=722) | [AceptaElReto722TuUnoYoDos.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto722TuUnoYoDos.cpp "AceptaElReto722TuUnoYoDos.cpp")| | |
 | 737 | [Reconstruyendo la muralla](https://www.aceptaelreto.com/problem/statement.php?id=737) | [AceptaElReto737RecostruyendoMuralla.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto737RecostruyendoMuralla.cpp "AceptaElReto737RecostruyendoMuralla.cpp")| | |
 | 738 | [Torfiles](https://www.aceptaelreto.com/problem/statement.php?id=738) | [AceptaElReto738Torfiles.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto738Torfiles.cpp "AceptaElReto738Torfiles.cpp")| | |
+| 759 | [Trampas en la competición](https://www.aceptaelreto.com/problem/statement.php?id=759) | [AceptaElReto759TrampasCompeticion.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto759TrampasCompeticion.cpp "AceptaElReto759TrampasCompeticion.cpp")| | |
