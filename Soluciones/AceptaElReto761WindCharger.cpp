@@ -25,6 +25,7 @@ bool relax(Edge const& edge, int dist[], int V){
     int u = edge.src;
     int v = edge.dest;
     int weight = edge.weight;
+    // Verificar que el nodo u no es el de destino (V-1) para cumplir con que "antes de su afán de ahorro está su afán de descanso. En cuanto pasa por su destino, Dargar Beos, salta de la nave y se olvida de todo."
     if (u != V-1 && dist[u] != INT_MAX && dist[u] + weight < dist[v]){
         dist[v] = dist[u] + weight;
         return true;
