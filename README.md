@@ -1,7 +1,7 @@
 ## Contenido del repositorio y usuario de Acepta el Reto
 Este repositorio contiene una colección de soluciones en *C++* a problemas de programación planteados en la web [Acepta el Reto](https://www.aceptaelreto.com/). Todos ellos han sido validados como **Accepted** por el juez automático de la web y, por lo tanto, son correctos y suficientemente eficientes. En mi [perfil de Acepta el Reto](https://www.aceptaelreto.com/user/profile.php?id=4260) pueden consultarse los problemas que tengo resueltos. Es posible que este repositorio este desactualizado y falten algunos.
 
-## Tabla de problemas resueltos (314 problemas)
+## Tabla de problemas resueltos (315 problemas)
 |Nº de problema  | Nombre del problema| Solución
 |--|--|--|
 | 100 | [Constante de Kaprekar](https://www.aceptaelreto.com/problem/statement.php?id=100) | [AceptaElReto100Kaprekar.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto100Kaprekar.cpp "AceptaElReto100Kaprekar.cpp")| | |
@@ -309,6 +309,7 @@ Este repositorio contiene una colección de soluciones en *C++* a problemas de p
 | 701 | [Haciendo la compra](https://www.aceptaelreto.com/problem/statement.php?id=701) | [AceptaElReto701HaciendoCompra.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto701HaciendoCompra.cpp "AceptaElReto701HaciendoCompra.cpp")| | |
 | 702 | [Haciendo cuentas](https://www.aceptaelreto.com/problem/statement.php?id=702) | [AceptaElReto702HaciendoCuentas.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto702HaciendoCuentas.cpp "AceptaElReto702HaciendoCuentas.cpp")| | |
 | 705 | [Saltando al otro lado](https://www.aceptaelreto.com/problem/statement.php?id=705) | [AceptaElReto705SaltandoOtroLado.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto705SaltandoOtroLado.cpp "AceptaElReto705SaltandoOtroLado.cpp")| | |
+| 708 | [Resolviendo encrucijadas](https://www.aceptaelreto.com/problem/statement.php?id=708) | [AceptaElReto708ResolviendoEncrucijadas.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto708ResolviendoEncrucijadas.cpp "AceptaElReto708ResolviendoEncrucijadas.cpp")| | |
 | 709 | [Eligiendo la sede del mundial](https://www.aceptaelreto.com/problem/statement.php?id=709) | [AceptaElReto709SedeMundial.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto709SedeMundial.cpp "AceptaElReto709SedeMundial.cpp")| | |
 | 711 | [Verificación de las entradas](https://www.aceptaelreto.com/problem/statement.php?id=711) | [AceptaElReto711VerificacionEntradas.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto711VerificacionEntradas.cpp "AceptaElReto711VerificacionEntradas.cpp")| | |
 | 712 | [Eventos de los partidos](https://www.aceptaelreto.com/problem/statement.php?id=712) | [AceptaElReto712EventosEntradas.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto712EventosEntradas.cpp "AceptaElReto712EventosEntradas.cpp")| | |
