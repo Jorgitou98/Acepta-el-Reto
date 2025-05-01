@@ -1,7 +1,7 @@
 ## Contenido del repositorio y usuario de Acepta el Reto
 Colección de soluciones en *C++* a problemas de programación planteados en la web [Acepta el Reto](https://www.aceptaelreto.com/). Todos han sido validados como **Accepted** por el juez automático de la web, luego son correctos y suficientemente eficientes. En mi [perfil de Acepta el Reto](https://www.aceptaelreto.com/user/profile.php?id=4260) pueden consultarse los problemas que tengo resueltos.
 
-## Tabla de problemas resueltos (323 problemas)
+## Tabla de problemas resueltos (325 problemas)
 |Nº de problema  | Nombre del problema| Solución
 |--|--|--|
 | 100 | [Constante de Kaprekar](https://www.aceptaelreto.com/problem/statement.php?id=100) | [AceptaElReto100Kaprekar.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto100Kaprekar.cpp "AceptaElReto100Kaprekar.cpp")| | |
@@ -22,6 +22,7 @@ Colección de soluciones en *C++* a problemas de programación planteados en la 
 | 116 | [¡Hola mundo!](https://www.aceptaelreto.com/problem/statement.php?id=116) | [AceptaElReto116HolaMundo.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto116HolaMundo.cpp "AceptaElReto116HolaMundo.cpp")| | |
 | 117 | [La fiesta aburrida](https://www.aceptaelreto.com/problem/statement.php?id=117) | [AceptaElReto117LaFiestaAburrida.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto117LaFiestaAburrida.cpp "AceptaElReto117LaFiestaAburrida.cpp")| | |
 | 120 | [Constante mágica](https://www.aceptaelreto.com/problem/statement.php?id=120) | [AceptaElReto120ConstanteMagica.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto120ConstanteMagica.cpp "AceptaElReto120ConstanteMagica.cpp")| | |
+| 121 | [Chicles de regalo](https://www.aceptaelreto.com/problem/statement.php?id=121) | [AceptaElReto121ChiclesRegalo.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto121ChiclesRegalo.cpp "AceptaElReto121ChiclesRegalo.cpp")| | |
 | 123 | [Conjugar verbos](https://www.aceptaelreto.com/problem/statement.php?id=123) | [AceptaElReto123ConjugarVerbos.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto123ConjugarVerbos.cpp "AceptaElReto123ConjugarVerbos.cpp")| | |
 | 126 | [Divisores del factorial](https://www.aceptaelreto.com/problem/statement.php?id=126) | [AceptaElReto126DivisoresFactorial.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto126DivisoresFactorial.cpp "AceptaElReto126DivisoresFactorial.cpp")| | |
 | 127 | [Una, dola, tela, catola...](https://www.aceptaelreto.com/problem/statement.php?id=127) | [AceptaElReto127UnaDolaTelaCatola.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto127UnaDolaTelaCatola.cpp "AceptaElReto127UnaDolaTelaCatola.cpp")| | |
@@ -96,6 +97,7 @@ Colección de soluciones en *C++* a problemas de programación planteados en la 
 | 262 | [Ada, Babbage y Bernouilli](https://www.aceptaelreto.com/problem/statement.php?id=262) | [AceptaElReto262AdaBaggageBernouilli.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto262AdaBaggageBernouilli.cpp "AceptaElReto262AdaBaggageBernouilli.cpp")| | |
 | 264 | [Pirámide de fichas de dominó](https://www.aceptaelreto.com/problem/statement.php?id=264) | [AceptaElReto264PiramideDomino.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto264PiramideDomino.cpp "AceptaElReto264PiramideDomino.cpp")| | |
 | 265 | [Suma descendente](https://www.aceptaelreto.com/problem/statement.php?id=265) | [AceptaElReto265SumaDescendente.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto265SumaDescendente.cpp "AceptaElReto265SumaDescendente.cpp")| | |
+| 266 | [Copistas daltónicos](https://www.aceptaelreto.com/problem/statement.php?id=266) | [AceptaElReto266CopistasDaltonicos.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto266CopistasDaltonicos.cpp "AceptaElReto266CopistasDaltonicos.cpp")| | |
 | 270 | [Me pilló el toro](https://www.aceptaelreto.com/problem/statement.php?id=270) | [AceptaElReto270MePilloElToro.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto270MePilloElToro.cpp "AceptaElReto270MePilloElToro.cpp")| | |
 | 271 | [Pájaros en vuelo](https://www.aceptaelreto.com/problem/statement.php?id=271) | [AceptaElReto271PajarosEnVuelo.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto271PajarosEnVuelo.cpp "AceptaElReto271PajarosEnVuelo.cpp")| | |
 | 272 | [Tres dedos en cada mano](https://www.aceptaelreto.com/problem/statement.php?id=272) | [AceptaElReto272TresDedosMano.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto272TresDedosMano.cpp "AceptaElReto272TresDedosMano.cpp")| | |
