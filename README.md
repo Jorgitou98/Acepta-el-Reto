@@ -1,7 +1,7 @@
 ## Contenido del repositorio y usuario de Acepta el Reto
 Colección de soluciones en *C++* a problemas de programación planteados en la web [Acepta el Reto](https://www.aceptaelreto.com/). Todos han sido validados como **Accepted** por el juez automático de la web, luego son correctos y suficientemente eficientes. En mi [perfil de Acepta el Reto](https://www.aceptaelreto.com/user/profile.php?id=4260) pueden consultarse los problemas que tengo resueltos.
 
-## Tabla de problemas resueltos (325 problemas)
+## Tabla de problemas resueltos (326 problemas)
 |Nº de problema  | Nombre del problema| Solución
 |--|--|--|
 | 100 | [Constante de Kaprekar](https://www.aceptaelreto.com/problem/statement.php?id=100) | [AceptaElReto100Kaprekar.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto100Kaprekar.cpp "AceptaElReto100Kaprekar.cpp")| | |
@@ -176,6 +176,7 @@ Colección de soluciones en *C++* a problemas de programación planteados en la 
 | 393 | [El entretenimiento de las máquinas](https://www.aceptaelreto.com/problem/statement.php?id=393) | [AceptaElReto393EntretenimientoMaquinas.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto393EntretenimientoMaquinas.cpp "AceptaElReto393EntretenimientoMaquinas.cpp")| | |
 | 396 | [Las partituras de la orquesta](https://www.aceptaelreto.com/problem/statement.php?id=396) | [AceptaElReto396PartiturasOrquesta.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto396PartiturasOrquesta.cpp "AceptaElReto396PartiturasOrquesta.cpp")| | |
 | 397 | [¿Es múltiplo de 3?](https://www.aceptaelreto.com/problem/statement.php?id=397) | [AceptaElReto397MultiploDe3.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto397MultiploDe3.cpp "AceptaElReto397MultiploDe3.cpp")| | |
+| 398 | [Más listos que el hambre](https://www.aceptaelreto.com/problem/statement.php?id=398) | [AceptaElReto398MasListosQueElHambre.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto398MasListosQueElHambre.cpp "AceptaElReto398MasListosQueElHambre.cpp")| | |
 | 405 | [Imprimiendo páginas sueltas](https://www.aceptaelreto.com/problem/statement.php?id=405) | [AceptaElReto405ImprimiendoPaginas.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto405ImprimiendoPaginas.cpp "AceptaElReto405ImprimiendoPaginas.cpp")| | |
 | 406 | [Yonge Street](https://www.aceptaelreto.com/problem/statement.php?id=406) | [AceptaElReto406YongeStreet.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto406YongeStreet.cpp "AceptaElReto406YongeStreet.cpp")| | |
 | 412 | [Ovejas negras](https://www.aceptaelreto.com/problem/statement.php?id=412) | [AceptaElReto412OvejasNegras.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto412OvejasNegras.cpp "AceptaElReto412OvejasNegras.cpp")| | |
