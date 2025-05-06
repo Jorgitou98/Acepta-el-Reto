@@ -1,7 +1,7 @@
 ## Contenido del repositorio y usuario de Acepta el Reto
 Colección de soluciones en *C++* a problemas de programación planteados en la web [Acepta el Reto](https://www.aceptaelreto.com/). Todos han sido validados como **Accepted** por el juez automático de la web, luego son correctos y suficientemente eficientes. En mi [perfil de Acepta el Reto](https://www.aceptaelreto.com/user/profile.php?id=4260) pueden consultarse los problemas que tengo resueltos.
 
-## Tabla de problemas resueltos (326 problemas)
+## Tabla de problemas resueltos (327 problemas)
 |Nº de problema  | Nombre del problema| Solución
 |--|--|--|
 | 100 | [Constante de Kaprekar](https://www.aceptaelreto.com/problem/statement.php?id=100) | [AceptaElReto100Kaprekar.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto100Kaprekar.cpp "AceptaElReto100Kaprekar.cpp")| | |
@@ -244,6 +244,7 @@ Colección de soluciones en *C++* a problemas de programación planteados en la 
 | 561 | [La serie de Leibnitz](https://www.aceptaelreto.com/problem/statement.php?id=561) | [AceptaElReto561SerieLeibniz.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto561SerieLeibniz.cpp "AceptaElReto561SerieLeibniz.cpp")| | |
 | 562 | [Repartidor de frigoríficos](https://www.aceptaelreto.com/problem/statement.php?id=562) | [AceptaElReto562RepartidorFrigorificos.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto562RepartidorFrigorificos.cpp "AceptaElReto562RepartidorFrigorificos.cpp")| | |
 | 564 | [El misterioso caso de los múltiplos de 7](https://www.aceptaelreto.com/problem/statement.php?id=564) | [AceptaElReto564Multiplos7.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto564Multiplos7.cpp "AceptaElReto564Multiplos7.cpp")| | |
+| 567 | [Don Matías](https://www.aceptaelreto.com/problem/statement.php?id=567) | [AceptaElReto567DonMatias.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto567DonMatias.cpp "AceptaElReto567DonMatias.cpp")| | |
 | 569 | [Una partidita y nos vamos a clase](https://www.aceptaelreto.com/problem/statement.php?id=569) | [AceptaElReto569UnaPartiditaVamos.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto569UnaPartiditaVamos.cpp "AceptaElReto569UnaPartiditaVamos.cpp")| | |
 | 570 | [DNI incompleto](https://www.aceptaelreto.com/problem/statement.php?id=570) | [AceptaElReto570DNIIncompleto.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto570DNIIncompleto.cpp "AceptaElReto570DNIIncompleto.cpp")| | |
 | 571 | [Accidentes aéreos](https://www.aceptaelreto.com/problem/statement.php?id=571) | [AceptaElReto571AccidentesAereos.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto571AccidentesAereos.cpp "AceptaElReto571AccidentesAereos.cpp")| | |
