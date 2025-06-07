@@ -1,7 +1,7 @@
 ## Contenido del repositorio y usuario de Acepta el Reto
-Colección de soluciones en *C++* a problemas de programación planteados en la web [Acepta el Reto](https://www.aceptaelreto.com/). Todos han sido validados como **Accepted** por el juez automático de la web, luego son correctos y suficientemente eficientes. En mi [perfil de Acepta el Reto](https://www.aceptaelreto.com/user/profile.php?id=4260) pueden consultarse los problemas que tengo resueltos.
+Soluciones en *C++* a problemas de programación de la web [Acepta el Reto](https://www.aceptaelreto.com/). Todos han sido validados como **Accepted** por el juez automático, luego son correctos y suficientemente eficientes. En mi [perfil de Acepta el Reto](https://www.aceptaelreto.com/user/profile.php?id=4260) pueden consultarse los problemas que tengo resueltos.
 
-## Tabla de problemas resueltos (327 problemas)
+## Tabla de problemas resueltos (330 problemas)
 |Nº de problema  | Nombre del problema| Solución
 |--|--|--|
 | 100 | [Constante de Kaprekar](https://www.aceptaelreto.com/problem/statement.php?id=100) | [AceptaElReto100Kaprekar.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto100Kaprekar.cpp "AceptaElReto100Kaprekar.cpp")| | |
@@ -173,6 +173,7 @@ Colección de soluciones en *C++* a problemas de programación planteados en la 
 | 388 | [Colocando barcos](https://www.aceptaelreto.com/problem/statement.php?id=388) | [AceptaElReto388ColocandoBarcos.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto388ColocandoBarcos.cpp "AceptaElReto388ColocandoBarcos.cpp")| | |
 | 389 | [Aritmética verbal](https://www.aceptaelreto.com/problem/statement.php?id=389) | [AceptaElReto389ArimeticaVerbal.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto389ArimeticaVerbal.cpp "AceptaElReto389ArimeticaVerbal.cpp")| | |
 | 390 | [Pixel Art](https://www.aceptaelreto.com/problem/statement.php?id=390) | [AceptaElReto390PixelArt.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto390PixelArt.cpp "AceptaElReto390PixelArt.cpp")| | |
+| 391 | [El profesor de música](https://www.aceptaelreto.com/problem/statement.php?id=391) | [AceptaElReto391ProfesorMusica.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto391ProfesorMusica.cpp "AceptaElReto391ProfesorMusica.cpp")| | |
 | 393 | [El entretenimiento de las máquinas](https://www.aceptaelreto.com/problem/statement.php?id=393) | [AceptaElReto393EntretenimientoMaquinas.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto393EntretenimientoMaquinas.cpp "AceptaElReto393EntretenimientoMaquinas.cpp")| | |
 | 396 | [Las partituras de la orquesta](https://www.aceptaelreto.com/problem/statement.php?id=396) | [AceptaElReto396PartiturasOrquesta.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto396PartiturasOrquesta.cpp "AceptaElReto396PartiturasOrquesta.cpp")| | |
 | 397 | [¿Es múltiplo de 3?](https://www.aceptaelreto.com/problem/statement.php?id=397) | [AceptaElReto397MultiploDe3.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto397MultiploDe3.cpp "AceptaElReto397MultiploDe3.cpp")| | |
@@ -331,3 +332,5 @@ Colección de soluciones en *C++* a problemas de programación planteados en la 
 | 770 | [Paella para dos](https://www.aceptaelreto.com/problem/statement.php?id=770) | [AceptaElReto770PaellaParaDos.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto770PaellaParaDos.cpp "AceptaElReto770PaellaParaDos.cpp")| | |
 | 781 | [Torres de copas](https://www.aceptaelreto.com/problem/statement.php?id=781) | [AceptaElReto781TorresDeCopas.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto781TorresDeCopas.cpp "AceptaElReto781TorresDeCopas.cpp")| | |
 | 782 | [El abuelo centenario](https://www.aceptaelreto.com/problem/statement.php?id=782) | [AceptaElReto782ElAbueloCentenario.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto782ElAbueloCentenario.cpp "AceptaElReto782ElAbueloCentenario.cpp")| | |
+| 789 | [La división perdida](https://www.aceptaelreto.com/problem/statement.php?id=789) | [AceptaElReto789LaDivisionPerdida.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto789LaDivisionPerdida.cpp "AceptaElReto789LaDivisionPerdida.cpp")| | |
+| 791 | [Guadian](https://www.aceptaelreto.com/problem/statement.php?id=791) | [AceptaElReto791Guadian.cpp](https://github.com/Jorgitou98/Acepta-el-Reto/blob/master/Soluciones/AceptaElReto791Guadian.cpp "AceptaElReto791Guadian.cpp")| | |
